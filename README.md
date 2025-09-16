@@ -93,5 +93,3 @@ Following screenshots illustrate the examples of two API calls:
 This project is currently maintained by Sai Santhosh Kambhampati, a Software Engineer with 3+ years of professional experience in developing scalable, enterprise-grade applications.
 
 *   **Email:** saisanthoshkambhampati23@gmail.com
-*   **LinkedIn:** [Sai Santhosh Kambhampati](https://www.linkedin.com/in/saisanthoshkambhampati)
-*   **GitHub:** [saisanthoshkambhampati](https://github.com/saisanthoshkambhampati)
